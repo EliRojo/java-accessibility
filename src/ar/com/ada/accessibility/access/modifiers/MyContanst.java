@@ -6,8 +6,8 @@ public class MyContanst {
     public static final double PI = 3.14;
     public Integer counter;
 
-    public MyContanst(final double PI, Integer counter){
-        this.PI = PI;
+    public MyContanst( Integer counter){
+
         this.counter = counter;
     }
     public void showAttributeValues(){
