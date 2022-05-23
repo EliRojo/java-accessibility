@@ -4,7 +4,7 @@ package ar.com.ada.accessibility.access.modifiers;
   String breed;
   String color;
 
-  Dog(String breed, String color){
+   public Dog(String breed, String color){
    this.breed = breed;
    this.color = color;
 
