@@ -18,7 +18,7 @@ public class Person {
 
 
     public void showAttributeValues(){
-        System.out.println("el nombre es "+name+"el apellido es"+lastname+"la edad es"+age);
+        System.out.println("el nombre es "+name+" "+"el apellido es"+" "+lastname+" "+"la edad es"+" "+age);
 
     }
 }
